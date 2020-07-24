@@ -2,6 +2,7 @@
 
 
 Microsoft Scholarship Foundation course Nanodegree Program
+
 Lesson 1: Welcome to Introduction to Machine Learning on Azure
 Welcome to machine Learning with Microsoft Azure! In this short lesson, we'll introduce your instructors and take a high-level look at the course structure.
 
